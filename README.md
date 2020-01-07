@@ -22,6 +22,7 @@ Summary of findings:
 * There is a positive correlation between price and review rating with price increasing by $1.18 on average per 1 rating point
 * Italian Sangiovese Grosso wine offers the highest median review rating at a modest price
 * There is opportunity for further linguistic analysis of positive vs negative wine reviews
+* [Link](https://medium.com/@arunas.umb/this-data-analysis-will-make-you-rethink-fancy-wine-ab962e7ef632) to the Medium post
 
 ### Files in repository
 
